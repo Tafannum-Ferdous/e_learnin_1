@@ -1,0 +1,254 @@
+header {
+    background: rgb(240, 255, 240);
+    min-height: 100vh;
+}
+
+.menu_text {
+}
+
+header h5 {
+    color: rgb(253, 81, 26);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+}
+
+header h1 {
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    font-family: Poppins, sans-serif;
+}
+
+header h1 span {
+    color: rgb(33, 181, 115);
+    font-family: Poppins, sans-serif;
+}
+
+header p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: Poppins, sans-serif;
+}
+
+.btn_custom {
+    background: rgb(33, 181, 115);
+    border: 1px solid;
+    border-radius: 33px;
+    color: white;
+    padding: 10px 30px;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+}
+
+.btn_custom:hover {
+    background: rgb(6, 133, 76);
+    border: 1px solid white;
+    color: white;
+}
+
+.height {
+    min-height: 75vh;
+    align-items: center;
+}
+
+.feature_content {
+    background: rgb(248, 255, 251);
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+
+.feature_content img {
+    width: 20%;
+}
+
+.feature_content h2 {
+    color: rgb(65, 57, 96);
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    margin-top: 15px;
+    font-family: Poppins, sans-serif;
+}
+
+.feature_content p {
+    color: rgb(88, 88, 89);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+}
+
+.feature_content:hover {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px 0px;
+}
+
+.course_content {
+    background: white;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 40px 0px;
+    border-radius: 18px;
+}
+
+.course_content img {
+}
+
+.course_content h2 {
+    font-family: Poppins, sans-serif;
+    color: rgb(65, 57, 96);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    margin-top: 19px;
+}
+
+.course_content h5 {
+    font-family: Poppins, sans-serif;
+    color: rgb(88, 88, 89);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.btn_content {
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    background: rgb(33, 181, 115);
+    border: 1px solid;
+    border-radius: 33px;
+    color: white;
+    padding: 6px 12px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+.btn_content:hover{
+    background: rgb(6, 133, 76);
+    border: 1px solid white;
+    color: white;
+}
+
+.course_content ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.course_content ul li {
+    color: rgb(88, 88, 89);
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.course_content ul li i {
+    color: rgb(88, 88, 89);
+    margin-right: 5px;
+}
+
+.heading h1{
+    color: #413960;
+    font-family: Poppins, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+}
+.heading_1 h1{
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+}
+.client{
+    width: 50%;
+    height: 70%;
+    margin-left: auto;
+    border: 1px solid #d1cfcf;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.client img{
+    width: 100%;
+    height: 100%;
+}
+.testimonial p{
+    
+color: #000;
+font-family: Poppins, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+}
+
+footer{
+
+background: #282531;
+
+color: #fff;
+}
+footer p{
+
+font-size: 16px;
+
+font-style: normal;
+
+font-weight: 400;
+
+line-height: 30px; /* 187.5% */
+font-family: Poppins, sans-serif;
+}
+footer ul{
+    
+list-style: none;
+    
+margin: 0;
+    
+padding: 0;
+}
+footer ul li{
+    
+color: #FFF;
+    
+font-family: Poppins, sans-serif;
+    
+font-size: 16px;
+    
+font-style: normal;
+    
+font-weight: 200;
+    
+line-height: 30px;
+}
+footer ul li:first-child{
+
+    font-weight: 600;
+}
+
+.heading p{
+    color: #CDCDCD;
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+text-align: center;
+}
